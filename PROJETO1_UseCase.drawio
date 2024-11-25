@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY4rVFsuhwn7kicti0D3-28" value="Docente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="700" width="30" height="60" as="geometry" />
+          <mxGeometry x="120" y="740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY4rVFsuhwn7kicti0D3-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ZY4rVFsuhwn7kicti0D3-29" target="ZY4rVFsuhwn7kicti0D3-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -25,10 +25,10 @@
           <mxGeometry x="870" y="140" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZY4rVFsuhwn7kicti0D3-31" value="Corpo Docentes&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="840" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="1070" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY4rVFsuhwn7kicti0D3-32" value="Direção" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="1270" width="30" height="60" as="geometry" />
+          <mxGeometry x="1100" y="950" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY4rVFsuhwn7kicti0D3-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ZY4rVFsuhwn7kicti0D3-29" target="ZY4rVFsuhwn7kicti0D3-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -196,6 +196,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="467" as="sourcePoint" />
             <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezecbh4aljtoPJzU3Dml-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="ZY4rVFsuhwn7kicti0D3-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.76265822784785" y="790" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
